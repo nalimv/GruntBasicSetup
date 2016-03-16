@@ -1,0 +1,17 @@
+h1.home {
+	color:#336699;
+	text-decoration:underline,overline;
+}
+
+
+h1.about {
+	color:#990000;
+	text-decoration:underline!important; 
+}
+
+form.contact input {
+	border:1px solid #000;
+	border-radius:3px;
+	font-size:16px;
+	color:red;
+}
